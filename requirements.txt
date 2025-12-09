@@ -1,0 +1,7 @@
+numpy>=2.3
+pandas
+scikit-learn
+matplotlib
+seaborn
+xgboost
+mlba

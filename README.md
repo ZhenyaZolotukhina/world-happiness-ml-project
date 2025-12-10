@@ -65,6 +65,13 @@ The line chart will display both historical `Happiness score` and the XGBoost fo
 - K-fold cross-validation for tabular models
 - TimeSeriesSplit cross-validation for temporal data
 
+## Live demo
+
+Static view of the marimo dashboard (hosted on GitHub Pages):  
+https://zhenyazolotukhina.github.io/world-happiness-ml-project/ 
+
+For full interactivity (sliders, recomputation), click **“Run or Edit”** at the top of the page  
+or run `marimo edit MARIMO2.py` locally.
 ---
 
 **Authors:** Zolotukhina Eugeniia, Murchich Natalia, Akhundova Fidan
